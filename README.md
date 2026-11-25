@@ -11,7 +11,7 @@ A dependency-free, single-file browser application for enumerating, drawing, and
 ## Quick start
 
 1. Download or clone this repository.
-2. Open [`chords.html`](chords.html) in a modern browser. No build step, server, or internet connection is required.
+2. Open [`index.html`](index.html) in a modern browser. No build step, server, or internet connection is required.
 3. Select the number of chords `k`, the desired cycle count, and whether the diagram is oriented; click **Generate**.
 
 The language button in the page header switches between Ukrainian and English.
